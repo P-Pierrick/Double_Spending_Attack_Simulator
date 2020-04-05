@@ -1,9 +1,8 @@
 # Double_spending_attack_simulator
-Allows you to visualize the profitability of a double-spend attack on the Bitcoin network, I also deployed this code on a web server (I used Django) :
+Allows you to visualise the profitability of a double-spend attack on the Bitcoin network, to start this program just run the GUI.py file.
 
-https://doublespendingattack.herokuapp.com/doubleSpendingAttack_app/simulateAttack/
+I also deployed this code on a web server (I used Django) : https://doublespendingattack.herokuapp.com/doubleSpendingAttack_app/simulateAttack/
 
-To start this program just run the GUI.py file
 
 SatoshiAttach.py :
 
